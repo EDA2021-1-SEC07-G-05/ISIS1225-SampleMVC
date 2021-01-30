@@ -30,5 +30,6 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 Integrantes:
 Iván Camilo Ballén Méndez - 202011440 - i.ballen@uniandes.edu.co
+María José Sáenz Rodríguez - 202013542 - m.saenzr@uniandes.edu.co 
 
 
